@@ -1,10 +1,10 @@
 # GmsToCConverter
 A Converter From GML To CSharp
-# Use the python (bad) version
-Go to the **pythonold** branch
-# Use the dotnet version! (good one)
-Go to the **dotnet** branch
-# If you cant care enough to compile it yourself then wait for me to finish it
-Yes... get [Visual Studio](https://visualstudio.microsoft.com/) if you want to compile it yourself 
-# :troll:
-this branch will not contain anything until i finally finish working on this shit
+# Use The Python (Bad) Version
+Go To The **PythonOld** Branch
+# Use The Dotnet Version! (Good One)
+Go To The **Dotnet** Branch.
+# If You Cant Care Enough To Compile It Yourself Then Wait For Me To Finish It...
+Yes... Get [Visual Studio](https://visualstudio.microsoft.com/) If You Want To Compile It Yourself 
+# :Troll:
+This Branch Will Not Contain Anything Until I Finally Finish Working On This Shit
